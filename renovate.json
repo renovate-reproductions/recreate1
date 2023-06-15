@@ -1,0 +1,7 @@
+{
+  "packageRules": [{
+    "matchUpdateTypes": ["minor", "patch"],
+    "groupName": "all",
+    "automerge": true
+  }]
+}
